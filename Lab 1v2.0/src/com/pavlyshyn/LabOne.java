@@ -3,9 +3,9 @@ package com.pavlyshyn;
 public class LabOne {
 
     public static void main(String[] args) {
-	    //Task1
+        //Task1
         IntChar objIntChar = new IntChar();
-        System.out.println("Int:"+objIntChar.sampleInt+"\nChar:"+objIntChar.sampleChar);
+        System.out.println("Int:" + objIntChar.sampleInt + "\nChar:" + objIntChar.sampleChar);
         //Task2
         HelloWorld helloWorld = new HelloWorld();
         helloWorld.sayHelloWorld();
@@ -17,7 +17,7 @@ public class LabOne {
         data.i = 1;
         data.d = 1.5;
         data.b = true;
-        System.out.println("data.i: "+data.i+"\ndata.d: "+data.d+"\ndata.b: "+data.b);
+        System.out.println("data.i: " + data.i + "\ndata.d: " + data.d + "\ndata.b: " + data.b);
         //Task6
         LabOne labOne = new LabOne();
         System.out.println(labOne.storage("Hello"));
@@ -75,8 +75,8 @@ public class LabOne {
         D = d;
         System.out.println(D);
         //Task 10
-        for(int index = 0;  index < 3; index++ ){
-            System.out.println("agrgs["+index+"] = "+args[index]);
+        for (int index = 0; index < 3; index++) {
+            System.out.println("agrgs[" + index + "] = " + args[index]);
         }
         //Task 11
         AllTheColorsOfTheRainbow allTheColorsOfTheRainbow = new AllTheColorsOfTheRainbow();

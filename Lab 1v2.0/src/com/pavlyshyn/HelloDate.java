@@ -21,7 +21,7 @@ public class HelloDate {
      * @throws exceptions No exceptions thrown
      */
     public static void runHelloDate() {
-        System.out.println("Hello, it’s: ");
+        System.out.println("Hello, it\'s: ");
         System.out.println(new Date());
     }
 } /* Output: (55% match)
