@@ -1,6 +1,6 @@
 package com.pavlyshyn;
 
-public class Main {
+public class LabTwo {
 
     public static void main(String[] args) {
 	// Task2
@@ -66,24 +66,24 @@ public class Main {
 
         //Task11
         System.out.println("Task 11");
-        long heximal2 = Integer.MAX_VALUE;
+        int heximal2 = 0xAAAA;
         while(heximal2!=0) {
-            System.out.println(Long.toBinaryString(heximal2));
+            System.out.println(Integer.toBinaryString(heximal2));
             heximal2>>=1;
         }
         //Task12
         System.out.println("Task 12");
         heximal2 =-1;
-        System.out.println(Long.toBinaryString(heximal2));
+        System.out.println(Integer.toBinaryString(heximal2));
         heximal2 <<= 10;
-        System.out.println(Long.toBinaryString(heximal2));
+        System.out.println(Integer.toBinaryString(heximal2));
         while (heximal2!=0){
             heximal2 >>>= 1;
-            System.out.println(Long.toBinaryString(heximal2));
+            System.out.println(Integer.toBinaryString(heximal2));
         }
         //Task13
         System.out.println("Task 13");
-        for(char i ='a'; i< 26+'a'; i++){
+        for(char i ='a'; i< 8+'a'; i++){
             System.out.println("Char:" + i + " Binary code:" + Integer.toBinaryString(i));
         }
         //Task14
