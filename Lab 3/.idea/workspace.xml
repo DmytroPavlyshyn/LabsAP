@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c80c2813-7dfb-43af-87d6-97e9d2c76c76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AdditionalTask/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AdditionalTask/src/com/pavlyshyn/Interval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab 2/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab 2/out/production/Lab2/com/pavlyshyn/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab 2/src/com/pavlyshyn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2/src/com/pavlyshyn/LabTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/src/com/pavlyshyn/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditionalTask/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTask/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditionalTask/out/production/AdditionalTask/com/pavlyshyn/Interval.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTask/out/production/AdditionalTask/com/pavlyshyn/Interval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditionalTask/out/production/AdditionalTask/com/pavlyshyn/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTask/out/production/AdditionalTask/com/pavlyshyn/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditionalTask/out/production/AdditionalTask/com/pavlyshyn/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditionalTask/src/com/pavlyshyn/Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTask/src/com/pavlyshyn/Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AdditionalTask/src/com/pavlyshyn/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AdditionalTask/src/com/pavlyshyn/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab 3/com/pavlyshyn/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab 3/com/pavlyshyn/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab 3/com/pavlyshyn/LabThree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lab 3/com/pavlyshyn/LabThree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/pavlyshyn/LabThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/pavlyshyn/LabThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/com/pavlyshyn/Common.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/com/pavlyshyn/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/com/pavlyshyn/Second.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/com/pavlyshyn/fast/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/out/production/untitled1/com/pavlyshyn/slow/First.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/com/pavlyshyn/Common.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/com/pavlyshyn/Main1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/com/pavlyshyn/fast/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/src/com/pavlyshyn/slow/First.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled1/untitled1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled1/untitled1.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +36,26 @@
     <session id="1830660286">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1650" />
+          <entry key="java" value="1695" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1650" />
+          <entry key="JAVA" value="1695" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -56,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/pavlyshyn/LabThree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2669">
-              <caret line="157" column="13" selection-start-line="157" selection-start-column="13" selection-end-line="157" selection-end-column="13" />
+            <state relative-caret-position="861">
+              <caret line="160" column="35" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -84,10 +103,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
+    <option name="x" value="-9" />
     <option name="y" value="50" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -124,8 +143,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539113800258" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540484438058" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab 4" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,13 +191,14 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="33" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15973154" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07248322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="simpleUML" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32998565" />
@@ -204,19 +224,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.25818/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.35012/SimpleInt.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.29216/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.25818/Fibonacci.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.35012/SimpleInt.java" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.29216/Main.java" />
     <entry file="file://$PROJECT_DIR$/../AdditionalTask/src/com/pavlyshyn/Interval.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -224,16 +234,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.2924/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa15576.2924/Fibonacci.java" />
     <entry file="file://$PROJECT_DIR$/src/com/pavlyshyn/Fibonacci.java" />
     <entry file="file://$PROJECT_DIR$/src/com/pavlyshyn/LabThree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2669">
-          <caret line="157" column="13" selection-start-line="157" selection-start-column="13" selection-end-line="157" selection-end-column="13" />
+        <state relative-caret-position="861">
+          <caret line="160" column="35" selection-start-line="160" selection-start-column="35" selection-end-line="160" selection-end-column="35" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
   </component>
 </project>

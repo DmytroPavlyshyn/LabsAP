@@ -5,6 +5,8 @@ import java.util.Random;
 public class LabThree {
 
     public static void main(String[] args) {
+         
+
         //Task 1
         System.out.println("Task 1");
         for (int i = 1; i <= 100; i++) {
@@ -153,7 +155,7 @@ class Fibonacci {
         int currentValue = F1;
         for(int i = 0; currentValue < bound; i++){
             System.out.println(currentValue);
-            if(i<2){
+            if(i<1){
                 continue;
             }
             currentValue = F1 + F2;
